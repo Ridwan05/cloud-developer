@@ -1,0 +1,11 @@
+
+> serverless@3.21.0 postinstall C:\Users\ridoh\OneDrive\Documents\Cloud\cloud-developer\course-04\exercises\lesson-6\solution\node_modules\serverless
+> node ./scripts/postinstall.js
+
+Serverless Framework successfully installed!
+
+To start your first project run “serverless”.
++ serverless@3.21.0
+added 10 packages from 9 contributors, updated 1 package and audited 1713 packages in 27.121s
+found 106 vulnerabilities (30 moderate, 57 high, 19 critical)
+  run `npm audit fix` to fix them, or `npm audit` for details
